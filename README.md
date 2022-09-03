@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/SHMITEnZ/nft-preview-card-component-main](https://github.com/SHMITEnZ/nft-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://shmitenz.github.io/nft-preview-card-component-main/](https://shmitenz.github.io/nft-preview-card-component-main/)
 
 ## My process
 
